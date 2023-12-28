@@ -45,18 +45,16 @@ form button{
      display: flex;
      justify-content: center;
      align-items: center;
-     min-height: 2vh;
  }
  .todo-list{
      min-width: 30%;
      list-style: none;
-     min-height: 2vh;
+font-size:1rem;
  }
  .todo{
      margin: 0.5rem;
      padding-left: 0.5rem;
      background: white;
-min-height: 2vh;
      color: black;
      font-size: 1rem;
      display: flex;
