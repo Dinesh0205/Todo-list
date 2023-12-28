@@ -77,8 +77,8 @@ form button{
      background: rgb(255,200,0);
  }
  .trash-btn{
-     border-top-right-radius: 1.75rem ;
-     border-bottom-right-radius:1.75rem ;
+     border-top-right-radius: 1rem ;
+     border-bottom-right-radius:1rem ;
      background: rgb(171,171,171);
  }
  .todo-item{
@@ -112,7 +112,7 @@ select{
     color: rgb(255,200,0);
     width: 10rem;
     font-size: 15px;
-    height: 3.2rem;
+    height: 1rem;
     cursor: pointer;
     padding: 1rem;
 }
