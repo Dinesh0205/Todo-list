@@ -59,7 +59,7 @@ form button{
      display: flex;
      justify-content: space-between;
      align-items: center;
-     border-radius: 2rem;
+     border-radius: 1rem;
      transition: 0.5s;
  }
 
@@ -110,7 +110,7 @@ select{
 }
 select{
     color: rgb(255,200,0);
-    width: 10rem;
+    width: 1rem;
     font-size: 15px;
     height: 1rem;
     cursor: pointer;
