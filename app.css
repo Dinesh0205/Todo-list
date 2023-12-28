@@ -55,7 +55,7 @@ form button{
      padding-left: 0.5rem;
      background: white;
      color: black;
-     font-size: 1.5rem;
+     font-size: 1rem;
      display: flex;
      justify-content: space-between;
      align-items: center;
@@ -71,7 +71,7 @@ form button{
      border: none;
      padding: 1rem;
      cursor: pointer;
-     font-size: 1.5rem;
+     font-size: 1rem;
  }
  .complete-btn{
      background: rgb(255,200,0);
