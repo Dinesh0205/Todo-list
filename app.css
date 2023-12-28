@@ -10,10 +10,10 @@ body{
     min-height: 100vh;
 }
 header{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 header,form{
-    min-height: 20vh;
+    min-height: 2vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@ header,form{
 form input, form button{
     padding: 0.5rem;
     padding-left: 1rem;
-    font-size: 1.8rem;
+    font-size: 1rem;
     border: none;
     background: white;
     border-radius: 2rem;
