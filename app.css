@@ -45,15 +45,18 @@ form button{
      display: flex;
      justify-content: center;
      align-items: center;
+     min-height: 2vh;
  }
  .todo-list{
      min-width: 30%;
      list-style: none;
+     min-height: 2vh;
  }
  .todo{
      margin: 0.5rem;
      padding-left: 0.5rem;
      background: white;
+min-height: 2vh;
      color: black;
      font-size: 1rem;
      display: flex;
@@ -71,7 +74,7 @@ form button{
      border: none;
      padding: 1rem;
      cursor: pointer;
-     font-size: 1.5rem;
+     font-size: 1rem;
  }
  .complete-btn{
      background: rgb(255,200,0);
